@@ -1,12 +1,33 @@
-- 👋 Hi, I’m H.Sibghat Ullah
-- 👀 I’m interested in Backend Development and Process Automation at Ignition , Zapier and Make
-- 🌱 I’m currently learning Django 
-- 💞️ I’m looking to collaborate on Backend and Automation Projects
-- 📫 How to reach me through my Linkedin Profile
-- 🔗Link: https://www.linkedin.com/in/sibghat-ullah-ba2597144?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
-- ⚡ Fun fact: I went in IT Production Sector from Biology in just 1 Year
+# 👋 Hey there! I'm H. Sibghat Ullah Jamali
 
-<!---
-DrJamali/DrJamali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 **Backend Developer | Automation Engineer | No-Code/Low-Code Enthusiast**
+
+---
+
+## 💻 About Me
+
+I'm a tech enthusiast who transitioned from **Biology to IT** in just **1 year** 💥 — and ever since, it's been a wild ride of code, bots, and backend magic.
+
+I specialize in building **robust backend systems** and crafting **process automations** using tools like:
+- 🧠 **Make.com (Integromat)**
+- 🔁 **Zapier**
+- ⚙️ **n8n**
+- 🐍 **Python** & **Django**
+- 💾 **PHP + MySQL**
+- 🧩 APIs & Webhooks wizardry
+
+---
+
+## 🚀 What I'm Up To
+
+- 🌱 Currently diving deep into **Django** and building scalable backends  
+- 🤝 Looking to **collaborate on automation + backend projects**  
+- 🧠 Exploring AI tools and integrations for smarter workflows  
+- 🛠️ Building bots that make businesses work while they sleep  
+
+---
+
+## 📬 Let's Connect
+
+📎 [LinkedIn – Sibghat Ullah Jamali](https://www.linkedin.com/in/sibghat-ullah-jamali/)  
+💬 Open to freelance collabs, mentorships, and tech talks!
